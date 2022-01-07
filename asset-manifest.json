@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://partha37.github.io/csb-wvchj/static/css/main.74e64218.chunk.css",
+    "main.js": "https://partha37.github.io/csb-wvchj/static/js/main.8c82324a.chunk.js",
+    "main.js.map": "https://partha37.github.io/csb-wvchj/static/js/main.8c82324a.chunk.js.map",
+    "runtime-main.js": "https://partha37.github.io/csb-wvchj/static/js/runtime-main.27432ac2.js",
+    "runtime-main.js.map": "https://partha37.github.io/csb-wvchj/static/js/runtime-main.27432ac2.js.map",
+    "static/js/2.5c32cb1b.chunk.js": "https://partha37.github.io/csb-wvchj/static/js/2.5c32cb1b.chunk.js",
+    "static/js/2.5c32cb1b.chunk.js.map": "https://partha37.github.io/csb-wvchj/static/js/2.5c32cb1b.chunk.js.map",
+    "index.html": "https://partha37.github.io/csb-wvchj/index.html",
+    "static/css/main.74e64218.chunk.css.map": "https://partha37.github.io/csb-wvchj/static/css/main.74e64218.chunk.css.map",
+    "static/js/2.5c32cb1b.chunk.js.LICENSE.txt": "https://partha37.github.io/csb-wvchj/static/js/2.5c32cb1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27432ac2.js",
+    "static/js/2.5c32cb1b.chunk.js",
+    "static/css/main.74e64218.chunk.css",
+    "static/js/main.8c82324a.chunk.js"
+  ]
+}
